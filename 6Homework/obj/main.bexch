@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\ryaj2\OneDrive\Documents\2022Spring-Auburn\PrinOfProgrammingLanguages\6Homework\homework6.gpr
+20220425195402 9212992fd8ab90eb4d896e80c56ddf5e
+[BOUND OBJECT FILES]
+C:\Users\ryaj2\OneDrive\Documents\2022Spring-Auburn\PrinOfProgrammingLanguages\6Homework\obj\assgn.o
+C:\Users\ryaj2\OneDrive\Documents\2022Spring-Auburn\PrinOfProgrammingLanguages\6Homework\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\ryaj2\OneDrive\Documents\2022Spring-Auburn\PrinOfProgrammingLanguages\6Homework\obj\
+-LC:\Users\ryaj2\OneDrive\Documents\2022Spring-Auburn\PrinOfProgrammingLanguages\6Homework\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
